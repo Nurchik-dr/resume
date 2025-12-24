@@ -1,0 +1,11 @@
+.about-menu {
+    max-width: 800px;
+}
+
+.about-menu p {
+    font-size: 18px;
+    color: #64748b;
+}
+.about-menu p:hover {
+    color: #8e9aac;
+}

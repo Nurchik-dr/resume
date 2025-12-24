@@ -1,0 +1,45 @@
+.mb-3 {
+    max-width: 700px;
+    background-color: rgb(29, 43, 63);
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mb-3:hover {
+    background-color: rgb(25, 39, 61);
+    box-shadow: 0px 8px 20px rgb(47, 57, 71);
+}
+
+.img-fluid {
+    margin: 8px 0 8px 24px;
+    max-width: 90%;
+    border-radius: 5px;
+    filter: blur(2px) brightness(0.7);
+    transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.img-fluid:hover {
+    filter: blur(0) brightness(1);
+    opacity: 1;
+}
+
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    gap: 5px;
+    color: #d4d6d8;
+}
+
+.card-text {
+    color: #64748b;
+}
+
+.text-center .btn-link {
+    color: #d4d6d8;
+}

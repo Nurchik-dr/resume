@@ -1,0 +1,19 @@
+.skills {
+    color: #64748b;
+    display: flex;
+    gap: 50px;
+}
+
+.skills h3 {
+    color: #cbd5e1;
+    cursor: pointer;
+}
+
+.skills li:hover{
+    color: #cbd5e1;
+    cursor: pointer;
+}
+
+.soft-title {
+    margin-top: 10px;
+}

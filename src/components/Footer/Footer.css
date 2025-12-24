@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    gap: 15px;
+    margin-top: 30%;
+}
+
+.footer .bi {
+    color: #64748b;
+    font-size: 30px;
+}
+
+.footer .bi:hover {
+    color: white;
+}
+.footer a {
+    width: 50px;
+    height: 50px;
+}
