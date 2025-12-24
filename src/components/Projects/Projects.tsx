@@ -41,7 +41,7 @@ const Contacts = () => {
 
       <hr />
       <div className="text-center">
-        <a href="https://github.com/repos?q=owner%3A%40me" className="btn btn-link" target='_blank'>Смотреть больше проектов <i className="bi bi-arrow-down"></i></a>
+        <a href="https://github.com/repos?q=owner%3A%40me" className="btn btn-link" target='_blank'>All projects <i className="bi bi-arrow-down"></i></a>
       </div>
     </div>
   );
